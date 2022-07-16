@@ -4,6 +4,8 @@ I am Luis Mantilla, a physicist and mathematician working in quantum machine lea
 
 ![BestQuark's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestQuark&count_private=true&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BestQuark&layout=compact)](https://github.com/BestQuark/github-readme-stats)
+
 <!--
 **BestQuark/BestQuark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
