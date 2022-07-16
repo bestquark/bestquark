@@ -2,7 +2,7 @@
 
 I am Luis Mantilla, a physicist and mathematician. I am currently a MSc. student in physics @UBC. I am working in quantum machine learning, quantum error correction, and reinforcement learning. 
 
-![BestQuark's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestQuark&count_private=true&show_icons=true&theme=github_dark)
+![BestQuark's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestQuark&count_private=true&show_icons=true&theme=github_dark&hide=stars)
 
 <!--
 **BestQuark/BestQuark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
