@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Luis Mantilla, a physicist and mathematician. I am currently a MSc. student in physics @UBC and part-time software developer @Xanadu. I am working in quantum machine learning, quantum error correction, and reinforcement learning. 
+I am Luis Mantilla, a physicist and mathematician. I am currently a Ph.D. student in computer science @UofT. I am working in quantum machine learning, quantum error correction, and reinforcement learning. 
 
 
 <!--
